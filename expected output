@@ -1,0 +1,19 @@
+1️ Browser opens
+
+2️ PetStore website opens
+
+3️ Click “Enter the Store”
+
+4️ Click “Fish” category
+
+5️ Select one product
+
+6️ Click “Add to Cart”
+
+7️ Shopping Cart page opens
+
+8️ System checks:
+
+If cart page is displayed ->TEST PASS
+
+If cart page not displayed ->TEST FAIL
