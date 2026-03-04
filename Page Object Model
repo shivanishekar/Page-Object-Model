@@ -1,0 +1,27 @@
+Question 1
+Create a Page Object Model for https://petstore.octoperf.com/actions/Catalog.action which has different pages like Home page, Products List, View Product, Shopping Cart.
+
+🔗 https://petstore.octoperf.com/actions/Catalog.action
+
+Pages:
+Home Page
+Product List Page
+View Product Page
+Shopping Cart Page
+
+Using:
+Java
+Selenium
+TestNG
+Assertions
+
+src/test/java
+base
+    BaseTest.java
+pages
+    HomePage.java
+    ProductListPage.java
+    ViewProductPage.java
+    CartPage.java
+ tests
+     PetStoreTest.java
